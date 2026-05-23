@@ -8,20 +8,18 @@
 <p align="center">
    AML/KYC compliance specialist with **4+ years** in banking and fintech (Twilio · Wise · Fidelity Bank).<br/>
   Now channelling that analytical foundation into data.<br/>
-  I'm learning SQL, Python, and data visualisation tools — and building projects that bridge compliance knowledge with data skills..
+  I'm learning SQL, Python, Machine learning and data visualisation tools — and building projects that bridge compliance knowledge with data skills..
 
 </p>
 
 <p align="center">
-  <a href="mailto:osemfortune@gmail.com">📧 osemfortune@gmail.com</a> ·
-  <a href="https://linkedin.com/in/okogun-fortune">LinkedIn</a> ·
-  📍 Espoo, Finland
+Reach me at  <a href="mailto:osemfortune@gmail.com">📧 osemfortune@gmail.com</a> ·
 </p>
 
 ---
 
 ### 🔍 Currently focused on
-- 📊 Learning SQL, Python, Tableau & Looker for data analysis
+- 📊 Learning Power BI, SQL, Python, Machine learning for data analysis
 - 🛠️ Building projects at the intersection of compliance and data
 - 📝 Documenting my data analyst journey publicly
 
@@ -37,6 +35,7 @@
 ![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=white)
 ![Looker](https://img.shields.io/badge/Looker-000000?style=for-the-badge&logo=looker&logoColor=white)
 ![Google Workspace](https://img.shields.io/badge/Google_Workspace-000000?style=for-the-badge&logo=google&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000)
 
 **Compliance Domain**
 
@@ -44,6 +43,8 @@
 ![Transaction Monitoring](https://img.shields.io/badge/Transaction_Monitoring-1D9E75?style=for-the-badge)
 ![Risk Assessment](https://img.shields.io/badge/Risk_Assessment-1D9E75?style=for-the-badge)
 ![EDD/CDD](https://img.shields.io/badge/EDD%2FCDD-1D9E75?style=for-the-badge)
+![STR Filing](https://img.shields.io/badge/STR_Filing-1D9E75?style=for-the-badge)
+![CTR Reporting](https://img.shields.io/badge/CTR_Reporting-1D9E75?style=for-the-badge)
 
 **Tools**
 
