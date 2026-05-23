@@ -6,14 +6,15 @@
 </h3>
 
 <p align="center">
-  AML/KYC compliance specialist with 4+ years across fintech, banking, and cloud comms.<br/>
-  Now channelling that analytical foundation into data — building projects in SQL, Python,<br/>
-  and Tableau one commit at a time.
+   AML/KYC compliance specialist with **4+ years** in banking and fintech (Twilio · Wise · Fidelity Bank).<br/>
+  Now channelling that analytical foundation into data.<br/>
+  I'm learning SQL, Python, and data visualisation tools — and building projects that bridge compliance knowledge with data skills..
+
 </p>
 
 <p align="center">
   <a href="mailto:osemfortune@gmail.com">📧 osemfortune@gmail.com</a> ·
-  <a href="https://linkedin.com/in/eugene-okogun">LinkedIn</a> ·
+  <a href="https://linkedin.com/in/okogun-fortune">LinkedIn</a> ·
   📍 Espoo, Finland
 </p>
 
@@ -22,7 +23,6 @@
 ### 🔍 Currently focused on
 - 📊 Learning SQL, Python, Tableau & Looker for data analysis
 - 🛠️ Building projects at the intersection of compliance and data
-- 🔐 Exploring data protection, privacy & crypto compliance analytics
 - 📝 Documenting my data analyst journey publicly
 
 ---
@@ -58,20 +58,8 @@
 
 ---
 
-### 💼 Experience
-| Role | Company | Period |
-|---|---|---|
-| Compliance Operations Specialist L2 | Twilio | 2022 – present |
-| Compliance Customer Support | Wise | Feb–May 2022 |
-| Transaction Monitoring Analyst | Fidelity Bank | Dec 2020–Oct 2021 |
-
----
-
 ### 📚 Currently Learning
-- SQL for Data Analysis · Udemy
-- Python for Data · Udemy
-- Goldman Sachs Risk Job Simulation · Forage
-- AML/CFT Concepts · Udemy
+- Data analysis with machine learning Program · Techstudio Academy
 
 ---
 
