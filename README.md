@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-   AML/KYC compliance specialist with **4+ years** in banking and fintech (Twilio · Wise · Fidelity Bank).<br/>
+   AML/KYC compliance specialist with 4+ years in banking, fintech and cloud communications.<br/>
   Now channelling that analytical foundation into data.<br/>
   I'm learning SQL, Python, Machine learning and data visualisation tools — and building projects that bridge compliance knowledge with data skills..
 
