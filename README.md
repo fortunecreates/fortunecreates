@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋 I'm Fortune Okogun</h1>
 <h3 align="center">
-  🛡️ Compliance & Operations → Data Analyst | CAMS · CFCS
+  🛡️ Compliance Operations → Data Analyst | CAMS · CFCS
 </h3>
 
 <p align="center">
